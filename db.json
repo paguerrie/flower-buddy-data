@@ -1,8 +1,19 @@
 {
 "events": [
 		{
-		"name":"Guerrie Wedding",
+		"uuid":"1111-1111-1111-1111",
+		"name":"Smith Wedding",
 		"date":"January 01, 2020"
+		},
+		{
+		"uuid":"2222-2222-2222-2222",
+		"name":"Brown Wedding",
+		"date":"March 05, 2020"
+		},
+		{
+		"uuid":"3333-3333-3333-3333",
+		"name":"Reintegra Fundraiser",
+		"date":"February 14, 2020"
 		}
 	]
 }
